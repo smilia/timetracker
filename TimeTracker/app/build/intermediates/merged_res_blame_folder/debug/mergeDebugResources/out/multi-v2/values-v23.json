@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.timetracker.app-mergeDebugResources-70:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shuli\\.gradle\\caches\\8.13\\transforms\\3aac6efa0fbb964a04fb55590eef65c3\\transformed\\work-runtime-2.10.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shuli\\.gradle\\caches\\8.13\\transforms\\f5e6b21393c1ae9b63588170300cec59\\transformed\\glance-appwidget-1.1.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "55",
+                        "endOffsets": "235"
+                    }
+                }
+            ]
+        }
+    ]
+}
